@@ -33,7 +33,7 @@ namespace Task_2
                 Console.WriteLine("The number is 0");
             }
             else 
-            // Invalid input 
+            // Else its invalid input. 
             {
                 {
                     Console.WriteLine("Invalid input ");
