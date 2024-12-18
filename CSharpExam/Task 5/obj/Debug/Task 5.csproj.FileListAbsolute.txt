@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\CSharpExam\Task 5\obj\Debug\Task 5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharpExam\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharpExam\Task 5\bin\Debug\Task 5.exe.config
+C:\Users\Admin\Desktop\CSharpExam\Task 5\bin\Debug\Task 5.exe
+C:\Users\Admin\Desktop\CSharpExam\Task 5\bin\Debug\Task 5.pdb
+C:\Users\Admin\Desktop\CSharpExam\Task 5\obj\Debug\Task 5.exe
+C:\Users\Admin\Desktop\CSharpExam\Task 5\obj\Debug\Task 5.pdb
